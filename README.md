@@ -1,3 +1,4 @@
 ## 📊 Project Dashboard
 
-![Dashboard Preview]()
+![Dashboard Preview](01.Project Dashboard image.jpg
+)
