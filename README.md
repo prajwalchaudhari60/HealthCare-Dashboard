@@ -1,3 +1,3 @@
 ## 📊 Project Dashboard
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](assist/Dashboard.png)
