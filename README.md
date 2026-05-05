@@ -54,7 +54,6 @@ HealthCare-Dashboard/
 │── style.css
 │── script.js
 │── assets/
-│── screenshots/
 ```
 
 ---
