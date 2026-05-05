@@ -85,8 +85,10 @@ git clone https://github.com/prajwalchaudhari60/HealthCare-Dashboard.git
 
 **Prajwal Chaudhari**
 
-* 🔗 GitHub: https://github.com/prajwalchaudhari60
-* 💼 LinkedIn: https://www.linkedin.com/in/prajwal-chaudhari-55190a261
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/prajwalchaudhari60)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
+
 
 ---
 
